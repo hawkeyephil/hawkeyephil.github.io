@@ -1,12 +1,12 @@
 h4 {
     font-family: Arial;
-    font-size: 20;
+    font-size: 22;
     color: rgb(255, 0, 0)
 }
 
 p {
     font-family: 'Times New Roman';
-    font-size: 16;
+    font-size: 18;
     color: black;
 } 
 
@@ -15,6 +15,12 @@ a {
     font-size: 18;
     color: rgb(0, 102, 204);
     margin-right: 10px;
+}
+
+li {
+    font-family: 'Times New Roman';
+    font-size: 18;
+    color: black;
 }
 
 .headerBackground {
@@ -56,4 +62,8 @@ a {
     margin-left: 200;
     margin-right: 200;
 }
+
+.mainImage {
+    margin-left: 220;
+} 
 
